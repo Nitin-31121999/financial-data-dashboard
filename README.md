@@ -3,7 +3,7 @@ Overview:Streamlined the daily processing of 25+ financial data files received f
 
 
 Impact:
-Reduced processing time by [Quantifiable Result - e.g., 80%].
+Reduced processing time by  80%
 Eliminated manual data entry errors, improving data integrity.
 Reduced operational costs by $12,000 per month through reduced labor requirements.
 Improved data analysis efficiency, enabling the team to focus on higher-value activities.
