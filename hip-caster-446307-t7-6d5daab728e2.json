@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hip-caster-446307-t7",
+  "private_key_id": "6d5daab728e28ab944aeb95b8889069b5932c3dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvMgO0wmrT5Dhw\nDfIcAxI6I2WZBynra2fNofCDxjCQ9W53T8j0Kh0uMdOOR2KnlZ/Uxs5JSWIusgJi\nVYvW7wRhMWaWtDEU/O24JjJ3CVQwxS441/q3Y3YzKBAU7lqnVF318Qtv2o+FMBZ5\nXGrtio/fAjz7oI3PqTo1crP6c/k+9XuCMjurzppPBrcsz74OU6VehW4f8TpbEm6H\nXxS88HS9CYYm5M0pF/iKurNSDSMIkPy45ZE65CecqfW3nWzqSg2adgI64effnjat\nhrHbv9J7/n25wHJd09NCtZQg6PrytmymPwnt5QIBei0nao4RRCHv+u83Us5TREAI\nzIuW1rixAgMBAAECggEADgBDvo7pBa0P+5iJuEZgjwfkJzIk3f0T6yGdfJJ6sCMF\nJIDaUPUKpvXxb8Xxsu3ou5L1ynKUZ6HvQdePWOp6IaBWkAWvhHtgLh7TWqMCuPER\nLBbKoRxQRm9Vta6EzSmXZr/QR6yiWqUIrsM9gmVX8R0XLY7btnRSRBI6IvJgwXCv\nqXVj63dF3MaOkfG76TxC705xX7k2XAJBAFObm0NiqJ/lFOSsfyT7NTHtmq3Qoo27\nYjfAPyTQ0SMrleMOPugAS1uMFvWYTw/YnqtTn289u3hbXvUWX7TKQV8/EuMAWSEY\nun5uEAJqIp6MliYBHc0Womz6pgsZ8waWUtevSmIdZwKBgQD1e9HgtkoEgFsAyvMT\nso7OtIaCCYjlLcusK80/VEOoerL1eNIgi6Ukny2RCHpiNlHUkrCN/6EftOtZJzgN\nrphAv017siLm6rc57pQKbAUGXZtpXcWrTPg/DuW55ymtVZSc6VjhT6Ex1NDH0WwW\nr6rjo+3/G60FXd4ek21QiPakDwKBgQC2s1qkeqDk49bIIAIQfbsaerZHwChY1Pjl\nRvyQCE/V0Hk79bdNPOo+oyGpEGO9zBg0M0BBoTgJAd7igY31fKRGi6Qd6O32cK3Q\ntK+grbCGVan8OPXZYX+2zN/KFtgx93x81f2FDM3jIzgcQNNE+Qm3Jd79G8gyFu17\nZeCOXSkXPwKBgBejp89S3ofWcG0AHi5MaJIhMj69elBPe6iFw0sQ6z8DKc6Xpux5\nZhrDtVidD2P7xR+KTLQv5K0v9+Xq7+vpX0IE6go6WkAQZDqQ7fKe+lDlnLylyg43\n6EPyRE8Foq7NafU+R0/TIjuxObW0RgtdOUCYnaeOW7gDlQsuuT0jI1UjAoGBAKmD\nA0i0Vm/ITVFlEUVHwr+wt0sfKNAy2bOxB0iDzb7uLG3Lb4UETbpMFUENad2BbbuR\nCb9a2+jPiYLS/WmVeb3SdjUiFxeeOEb6PjFwteYNuSfBmalVYu+yarjQNUs2+pPA\n3/YAiU6DMN5V7y+BeNgrFRf2HOsMhs8FGTI9kZB1AoGBAJ6QnUetdp6Vu43b5/nT\n1PhIoV3rwjyO1o9hMSyvewfg0GR9hlVxDY0FSuJ4uPn5pT9ozeKWp0fI9qmVVy7F\nNUB8HKCOzYMaFKaHP+nTktFfHN3HCi/pMCBgxaw2EY6VT1oCXUZAArw8Iw7mb2zv\n4dp4eW2t7NW1YLTu1K6/97ar\n-----END PRIVATE KEY-----\n",
+  "client_email": "financial-project@hip-caster-446307-t7.iam.gserviceaccount.com",
+  "client_id": "117300054849707953409",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/financial-project%40hip-caster-446307-t7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
